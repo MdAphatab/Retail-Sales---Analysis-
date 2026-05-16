@@ -4,7 +4,7 @@
 
 ## Alternative Professional Titles :
 •Retail Sales Data Analysis using SQL & Power BI
-•Business Sales Dashboard Project
+/n•Business Sales Dashboard Project
 •Customer & Revenue Analysis Dashboard
 •Retail Business Intelligence Dashboard
 •Sales Performance Analysis using SQL & Power BI
