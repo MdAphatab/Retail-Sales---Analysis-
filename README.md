@@ -28,6 +28,6 @@ GROUP BY Product_Category
 
 ORDER BY Total_Revenue DESC;
 ```
-### Insight 
+### Insight:
 Electronics was the top-performing product category by revenue.
 
