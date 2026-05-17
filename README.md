@@ -39,6 +39,7 @@ GROUP BY MONTH(Date)
 ORDER BY Total_Sales DESC; 
 ```
 
+
 ## 3. Which gender contributes more to total sales?
 ```Sql
 SELECT Gender,
