@@ -16,9 +16,7 @@
 
 ## 1. Which product category generates the highest revenue?
 
-```SQL
-
-SELECT Product_Category, SUM(Total_Amount) AS
+```SELECT Product_Category, SUM(Total_Amount) AS
 
 Total_Revenue
 
