@@ -148,6 +148,9 @@ Business Insight:
 Electronics was the top-performing product category by revenue.
 
 ## 2. Monthly Sales Trend
+<p align="center">
+  <img src="monthly-trend-chart.png" width="500">
+</p>
 Business Insight
 Tracks sales performance over time and identifies peak months.
 
