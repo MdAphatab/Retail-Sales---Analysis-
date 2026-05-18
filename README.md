@@ -24,6 +24,7 @@ ORDER BY Total_Revenue DESC;
 ### Insight:
 Electronics was the top-performing product category by revenue.
 
+
 ## 2. Which month has the highest sales?
 ```Sql
 SELECT MONTH(Date) AS Month,
