@@ -136,8 +136,11 @@ Total Customers
 
 ## Dashboard Visualizations
 1. Sales by Product Category
-Business Insight
-Shows which category contributes the most revenue.
+<p align="center">
+  <img src="total-sales-chart.png" width="500">
+</p>
+Business Insight:
+Electronics was the top-performing product category by revenue.
 
 ## 2. Monthly Sales Trend
 Business Insight
