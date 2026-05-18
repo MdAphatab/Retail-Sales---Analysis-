@@ -24,7 +24,6 @@ ORDER BY Total_Revenue DESC;
 ### Insight:
 Electronics was the top-performing product category by revenue.
 
-
 ## 2. Which month has the highest sales?
 ```Sql
 SELECT MONTH(Date) AS Month,
@@ -71,6 +70,8 @@ FROM retail_sales
 GROUP BY Age_Group
 ORDER BY Total_Sales DESC;
 ```
+### Insight:
+Sales analysis revealed that customers aged 46 and above were the top purchasing age group, contributing the highest sales volume.
 
 ## 6. Which customers are top spenders?
 ```Sql
@@ -81,6 +82,8 @@ GROUP BY Customer_ID
 ORDER BY Total_Spending DESC
 LIMIT 10;
 ```
+### Insight:
+Multiple customers were identified as top spenders, each with the same total spending value of 2000.
 
 ## 7. What is the total quantity sold by category?
 ```Sql
@@ -90,6 +93,8 @@ FROM retail_sales
 GROUP BY Product_Category
 ORDER BY Total_Quantity_Sold DESC;
 ```
+### Insight:
+Category-wise sales analysis showed that Clothing was the top-selling category based on total quantity sold.
 
 ## 8. What is the daily sales trend?
 ```Sql
@@ -99,6 +104,8 @@ FROM retail_sales
 GROUP BY Date
 ORDER BY Date;
 ```
+### Insight:
+The daily sales trend revealed varying sales performance over time, with peak sales observed on 01/01/2023.
 
 ## 9. Which product category has the highest average transaction value?
 ```Sql
@@ -108,12 +115,16 @@ FROM retail_sales
 GROUP BY Product_Category
 ORDER BY Avg_Transaction_Value DESC;
 ```
+### Insight:
+ Analysis of average transaction values showed that the Beauty category generated the highest average purchase value compared to other product categories.
 
 ## 10. What is the total revenue generated?
 ```Sql
 SELECT SUM(Total_Amount) AS Total_Revenue
 FROM retail_sales;
 ```
+### Insight:
+The dataset generated a total revenue of 456,000 from overall sales transactions.
 
 ## Power BI Dashboard Questions & KPIs
 KPI Cards
