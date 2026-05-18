@@ -155,6 +155,9 @@ Business Insight
 Tracks sales performance over time and identifies peak months.
 
 ## 3. Sales by Gender
+<p align="center">
+  <img src="sales-trendByGender-chart.png" width="500">
+</p>
 Business Insight
 Shows customer demographic contribution.
 
