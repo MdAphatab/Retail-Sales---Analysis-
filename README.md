@@ -6,8 +6,11 @@
 •Retail Sales Data Analysis using SQL & Power BI
 
 •Business Sales Dashboard Project
+
 •Customer & Revenue Analysis Dashboard
+
 •Retail Business Intelligence Dashboard
+
 •Sales Performance Analysis using SQL & Power BI
 
 ## 1. Which product category generates the highest revenue?
@@ -29,7 +32,8 @@ FROM retail_sales
 GROUP BY MONTH(Date)
 ORDER BY Total_Sales DESC; 
 ```
-
+### Insight:
+I analyzed monthly sales trends and found that Month 5 recorded the highest sales performance compared to all other months. This indicates a peak in customer demand during that period.
 
 ## 3. Which gender contributes more to total sales?
 ```Sql
@@ -38,6 +42,8 @@ SELECT Gender,
 FROM retail_sales
 GROUP BY Gender;
 ```
+### Insight:
+Sales analysis showed that male customers generated the highest contribution to overall revenue.
 
 ## 4. What is the average spending per customer?
 ```Sql
@@ -47,6 +53,8 @@ FROM retail_sales
 GROUP BY Customer_ID
 ORDER BY Avg_Spending DESC;
 ```
+### Insight:
+ The analysis identified multiple customers with an average spending amount of 2000, representing the top-spending customer segment
 
 ## 5. Which age group purchases the most?
 ```Sql
