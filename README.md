@@ -1,6 +1,6 @@
 # Retail Sales Analysis Dashboard
 
-## SQL and Power BI Project for Business Insights & Data Visualization
+## SQL and Power BI Project for Business Insights & Data Visualization.
 
 ## Alternative Professional Titles :
 •Retail Sales Data Analysis using SQL & Power BI
