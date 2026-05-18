@@ -127,12 +127,17 @@ FROM retail_sales;
 The dataset generated a total revenue of 456,000 from overall sales transactions.
 
 ## Power BI Dashboard Questions & KPIs
-KPI Cards
-Total Revenue
-Total Orders
-Total Quantity Sold
-Average Order Value
-Total Customers
+•KPI Cards
+
+•Total Revenue
+
+•Total Orders
+
+•Total Quantity Sold
+
+•Average Order Value
+
+•Total Customers
 
 ## Dashboard Visualizations
 1. Sales by Product Category
