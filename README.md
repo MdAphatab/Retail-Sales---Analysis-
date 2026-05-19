@@ -162,6 +162,9 @@ Business Insight
 Shows customer demographic contribution.
 
 ## 4. Sales by Age Group
+<p align="center">
+  <img src="sales-byAge-chart.png" width="500">
+</p>
 Business Insight
 Identifies the most profitable customer age segment.
 
