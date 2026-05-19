@@ -168,7 +168,10 @@ Shows customer demographic contribution.
 Business Insight
 Identifies the most profitable customer age segment.
 
-## 5. Top 10 Customers
+## 5. Highest Spending Customers
+<p align="center">
+  <img src="highest-spending-customer.png" width="500">
+</p>
 Business Insight
 Highlights loyal and high-value customers.
 
