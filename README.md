@@ -13,6 +13,16 @@
 
 •Sales Performance Analysis using SQL & Power BI
 
+## Business Recommendations
+
+- Focus on high-performing product categories to increase revenue.
+- Improve customer retention through loyalty programs and offers.
+- Use sales trends to plan seasonal promotions and marketing campaigns.
+- Optimize inventory management based on product demand.
+- Monitor sales performance regularly using dashboards for better decision-making.
+
+ ## Business Questions
+
 ## 1. Which product category generates the highest revenue?
 ```Sql
 SELECT Product_Category, SUM(Total_Amount) AS
