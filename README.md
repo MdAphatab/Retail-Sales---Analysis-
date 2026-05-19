@@ -13,10 +13,6 @@ This project analyzes retail sales data using SQL and Power BI to identify sales
 - KPI Cards
 - Filters/Slicers
 
-# Retail Sales Analysis using SQL & Power BI
-
-This project analyzes retail sales data using SQL and Power BI to identify sales trends, customer behavior, and business insights through interactive dashboards and data analysis.
-
 ## Business Recommendations
 
 - Focus on high-performing product categories to increase revenue.
