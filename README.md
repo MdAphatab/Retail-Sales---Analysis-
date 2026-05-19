@@ -1,7 +1,8 @@
 # Retail Sales Analysis Dashboard
 This project analyzes retail sales data using SQL and Power BI to identify sales trends, customer behavior, and business insights through interactive dashboards and data visualization.
 
-## SQL and Power BI Project for Business Insights & Data Visualization.
+## SQL & Power BI Project for Business Insights and Data Visualization
+
 ## Tools Used
 - SQL
 - Power BI
