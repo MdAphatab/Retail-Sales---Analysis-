@@ -183,6 +183,9 @@ Business Insight
 Analyzes product demand and inventory requirements.
 
 ## 7. Daily Sales Trend
+<p align="center">
+  <img src="daily-sales-trendpng" width="500">
+</p>
 Business Insight
 Shows sales fluctuations and customer buying behavior.
 
