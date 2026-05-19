@@ -176,6 +176,9 @@ Business Insight
 Highlights loyal and high-value customers.
 
 ## 6. Quantity Sold by Category
+<p align="center">
+  <img src="quantity-soldBy-category.png" width="500">
+</p>
 Business Insight
 Analyzes product demand and inventory requirements.
 
