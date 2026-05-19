@@ -151,43 +151,43 @@ Electronics was the top-performing product category by revenue.
 <p align="center">
   <img src="monthly-trend-chart.png" width="500">
 </p>
-Business Insight
-Tracks sales performance over time and identifies peak months.
+Business Insight:
+Month 5 recorded the highest sales, showing peak customer demand during this period.
 
 ## 3. Sales by Gender
 <p align="center">
   <img src="sales-trendByGender-chart.png" width="500">
 </p>
-Business Insight
-Shows customer demographic contribution.
+Business Insight:
+Male customers contributed the highest share of overall revenue.
 
 ## 4. Sales by Age Group
 <p align="center">
   <img src="sales-byAge-chart.png" width="500">
 </p>
-Business Insight
-Identifies the most profitable customer age segment.
+Business Insight:
+Customers aged 46+ contributed the highest sales volume among all age groups.
 
 ## 5. Highest Spending Customers
 <p align="center">
   <img src="highest-spending-customer.png" width="500">
 </p>
-Business Insight
-Highlights loyal and high-value customers.
+Business Insight:
+The analysis identified multiple customers with an average spending amount of 2000, representing the top-spending customer segment.
 
 ## 6. Quantity Sold by Category
 <p align="center">
   <img src="quantity-soldBy-category.png" width="500">
 </p>
-Business Insight
-Analyzes product demand and inventory requirements.
+Business Insight:
+Clothing was the top-selling category based on total quantity sold.
 
 ## 7. Daily Sales Trend
 <p align="center">
   <img src="daily-sales-trend.png" width="500">
 </p>
-Business Insight
-Shows sales fluctuations and customer buying behavior.
+Business Insight:
+Daily sales showed fluctuations, with a peak of 8,455 recorded on 05/23/2023.
 
 ## Final Project Conclusion
 This project demonstrates practical data analyst skills by combining SQL analysis with Power BI dashboard visualization. It provides valuable business insights into customer behavior, product performance, and sales trends. The project showcases the ability to transform raw data into actionable business intelligence.
