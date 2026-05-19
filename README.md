@@ -102,10 +102,10 @@ SELECT Date,
        SUM(Total_Amount) AS Daily_Sales
 FROM retail_sales
 GROUP BY Date
-ORDER BY Date;
+ORDER BY Daily_Sales desc;
 ```
 ### Insight:
-The daily sales trend revealed varying sales performance over time, with peak sales observed on 01/01/2023.
+The daily sales trend revealed fluctuations in sales performance over time, with peak sales of 8,455 recorded on 05/23/2023.
 
 ## 9. Which product category has the highest average transaction value?
 ```Sql
