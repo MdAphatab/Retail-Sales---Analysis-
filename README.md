@@ -21,7 +21,7 @@ This project analyzes retail sales data using SQL and Power BI to identify sales
 - Optimize inventory management based on product demand.
 - Monitor sales performance regularly using dashboards for better decision-making.
 
- ## Business Questions
+ ## Business Questions :
 
 ## 1. Which product category generates the highest revenue?
 ```Sql
