@@ -8,10 +8,10 @@ This project analyzes retail sales data using SQL and Power BI to identify sales
 - Power BI
 
 ## Power BI Features Used
-- Bar Chart
-- Area Chart
 - KPI Cards
-- Filters/Slicers
+- Bar / Column Charts
+- Area Charts
+- Pie Chart
 
 ## Business Recommendations
 
