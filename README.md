@@ -53,7 +53,7 @@ FROM retail_sales
 GROUP BY Gender;
 ```
 ### Insight:
-Sales analysis showed that male customers generated the highest contribution to overall revenue.
+Sales analysis showed that female customers generated the highest contribution to overall revenue.
 
 ## 4. What is the average spending per customer?
 ```Sql
