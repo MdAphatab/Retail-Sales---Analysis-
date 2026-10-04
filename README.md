@@ -169,7 +169,7 @@ Month 5 recorded the highest sales, showing peak customer demand during this per
   <img src="sales-trendByGender-chart.png" width="500">
 </p>
 Business Insight:
-Male customers contributed the highest share of overall revenue.
+female customers contributed the highest share of overall revenue.
 
 ## 4. Sales by Age Group
 <p align="center">
